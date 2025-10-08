@@ -1,7 +1,7 @@
 """
 Week 2 Assignment: Smart Shopping Cart Calculator
 Variant: 2
-Student Name: Oktyabrov Umrbek
+Student Name: Oktyabrov Umrbek https://yangibaev.com/courses/itp/week2/assignment/123
 Date: 08.10.2025
 Description: This is a shopping cart program that calculates the final price based on multiple discount rules and membership status
 """
